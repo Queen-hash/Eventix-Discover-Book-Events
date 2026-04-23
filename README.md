@@ -46,8 +46,18 @@
     ```Bash
     npm run dev
     
-👨‍💻 Author
----> Munawardy (DY)
----> Portfolio: munawardy.com
---->inkedIn: Munawardy
---->Instagram: @munawardy
+🤝 Contributions
+This app was created as part of a personal portfolio project. 
+If you have any suggestions, find a bug, or would like to contribute by adding new features, please feel free to create 
+a Pull Request or open an Issue.
+
+📞 Contact & Profile
+Designed and developed with ❤️ by Munawardy (DY).
+
+📸 Instagram: @_nrrdyy
+
+💼 LinkedIn: Munawardy
+
+📧 Email: wincakardi.040105@gmail.com
+
+🌐 Website: munawardy.com
